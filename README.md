@@ -10,16 +10,17 @@
 #### 安装教程
 
 1.  3D模型图打开软件FeeCAD
-2.  xxxx
-3.  xxxx
+2.  程序打开软件stm32cubeide
+3.  视频观看地址：https://www.bilibili.com/video/BV15q4y1s7aP/
 
 #### 使用说明
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/150057_4a71cabc_2117144.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/150611_a8041edb_2117144.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/150725_495b9821_2117144.png "屏幕截图.png")
-
-
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/151045_32cb08f1_2117144.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/151206_85c38a5a_2117144.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0627/151302_a10c6a9b_2117144.png "屏幕截图.png")
 
 #### 参与贡献
 
