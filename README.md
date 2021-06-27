@@ -9,7 +9,7 @@
 
 #### 安装教程
 
-1.  3D模型图打开软件FeeCAD
+1.  3D模型图打开软件FreeCAD
 2.  程序打开软件stm32cubeide
 3.  视频观看地址：https://www.bilibili.com/video/BV15q4y1s7aP/
 
